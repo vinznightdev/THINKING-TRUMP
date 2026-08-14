@@ -1,0 +1,6 @@
+{
+  "name": "Thinking Trump",
+  "description": "An immersive, dark minimalist interactive website for Thinking Trump, featuring real-time AI thought generation, meme-based interactions, and live token charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
